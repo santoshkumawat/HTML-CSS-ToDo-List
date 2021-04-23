@@ -1,0 +1,22 @@
+{
+  "name": "todo-list",
+  "version": "1.0.0",
+  "description": "This is basic project called ToDO-List",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/santoshkumaawat/ToDo-List.git"
+  },
+  "author": "Santosh Kumawat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/santoshkumaawat/ToDo-List/issues"
+  },
+  "homepage": "https://github.com/santoshkumaawat/ToDo-List#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
