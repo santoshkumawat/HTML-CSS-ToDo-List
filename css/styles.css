@@ -1,0 +1,28 @@
+.jumbotron {
+  padding: 70px 30px;
+  margin: 0px auto;
+  background: #007c7c;
+  color: floralwhite;
+}
+.row-header {
+  margin: 0px auto;
+  padding: 0px;
+}
+
+h1 {
+  text-align: center;
+  font-size: 200%;
+  font-weight: 700;
+}
+.row-content {
+  margin: 0px auto;
+  padding: 15px 0px;
+  align-items: center;
+}
+
+.footer {
+  background-color: #262d31;
+  color: floralwhite;
+  margin: 0px auto;
+  padding: 20px 0px;
+}
