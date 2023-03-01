@@ -1,3 +1,3 @@
 # ToDo List
 
-Please visit following address: https://santoshkumaawat.github.io/ToDo-List/
+Please visit following address: https://santoshkumawat.github.io/ToDo-List/
